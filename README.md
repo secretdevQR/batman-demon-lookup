@@ -1,4 +1,5 @@
 # API Made tracker
+Use VPN for extra safety
 
 - How to use this file:
 
