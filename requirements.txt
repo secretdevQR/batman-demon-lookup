@@ -31,3 +31,12 @@ pip install aiohttp
 pip install tldextract
 pip install phonenumbers
 pip install nltk
+
+
+
+
+
+////////////////
+
+
+Main requirements: code editor: /vscode , pycharm , VIM , more/ , python interpreter , knownledge
